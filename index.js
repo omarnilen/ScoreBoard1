@@ -35,3 +35,10 @@ function increaseGuestScoreThree(){
     guestScoreEl.textContent = guestScore
     console.log("button clicked")
 }
+window.increaseHomeScoreOne = increaseHomeScoreOne
+window.increaseHomeScoreTwo = increaseHomeScoreTwo
+window.increaseHomeScoreThree = increaseHomeScoreThree
+
+window.increaseGuestScoreOne = increaseGuestScoreOne
+window.increaseGuestScoreTwo = increaseGuestScoreTwo
+window.increaseGuestScoreThree = increaseGuestScoreThree
